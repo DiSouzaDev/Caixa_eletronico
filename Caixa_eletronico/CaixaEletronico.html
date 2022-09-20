@@ -122,6 +122,7 @@
 			var contaTransf = parseInt(prompt("Digite o número da conta ao qual deseja transferir:"));
 			if(isNaN(contaTransf) || contaTransf > 99999 || contaTransf <= 0){
 				alert("Digite uma conta válida");
+				transferencia();
 			}
 
 			function transfFinal(){
