@@ -12,7 +12,7 @@
 		alert("Olá " + nomeUsu + " é um prazer ter você por aqui!");
 		var saldo = 5000.00; //Variavel Global
 		var senha = 3589;
-		var extrato = ["Magalu -505.65", "\nBar do Seu Jorge -21.20", "\nGiga Atacado -568,95", "\nPagamento +3500", "\nParcela do carro -2000", "\n"];
+		var extrato = ["Magalu -505.65", "\nBar do Seu Jorge -21.20", "\nGiga Atacado -568,95", "\nPagamento +3500.00", "\nParcela do carro -2000.00", "\ntransferência de: Ícaro +700.00"];
 		
 		function inicio() {
 			//ESCOPO
@@ -74,7 +74,7 @@
 
 		function ver_saldo() {
 			
-			alert("Seu saldo atual é: " + saldo);
+			alert(nomeUsu + ", seu saldo atual é: " + saldo);
 			inicio();
 		}
 
@@ -122,6 +122,7 @@
 			var contaTransf = parseInt(prompt("Digite o número da conta ao qual deseja transferir:"));
 			if(isNaN(contaTransf) || contaTransf > 99999 || contaTransf <= 0){
 				alert("Digite uma conta válida");
+				transferencia();
 			}
 
 			function transfFinal(){
