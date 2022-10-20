@@ -21,4 +21,4 @@
 - Quando o usuário escolher sair do sistema, exiba uma mensagem agradecendo por utilizar os serviços do banco: "{Nome}, foi um prazer ter você por aqui!".
 
 # Criação:
-Sem duvidas foi um projeto divertido de prototipar! Consegui aplicar o que foi pedido por meio de funções. No começo não compreendi bem como funcionava, mas depois de descobrir o projeto se desenrolou muito bem.
+Sem dúvidas foi um projeto divertido de prototipar! Consegui aplicar o que foi pedido por meio de funções. No começo não compreendi bem como funcionava, mas depois de descobrir o projeto se desenrolou muito bem.
