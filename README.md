@@ -1,11 +1,11 @@
 # Caixa_eletronico
 # Idéia por trás do projeto
-### No mundo do desenvolvimento o pensamento crítico é a parte mais importante. Com um pensamento apurado, você consegue fazer melhores perguntas, ser mais assertivo nas ações e no desenvolvimento. Exatamente por isso, mantenha muita atenção no que é solicitado abaixo. Pense com cuidado, planeje e execute. Dessa vez, vocês estão alterando um código pronto e aplicando sua visão. Mantenha na cabeça que qualquer alteração não vai quebrar o mundo... Então experimente tudo o que quiser experimentar. Brinque bastante e altere tudo o que quiser alterar. Com o projeto de desenvolvimento de caixa eletrônico, por exemplo, encontramos algumas questões que são muito importantes, mas não foram aplicadas. Vamos aplicá-las uma a uma. Lembre-se de encontrar um ambiente onde possa se concentrar, entender e anotar tudo o que precisa ser feito e, depois de um tempo, pode ser bem interessante reunir-se com quem pode agregar a esse projeto.
+No mundo do desenvolvimento o pensamento crítico é a parte mais importante. Com um pensamento apurado, você consegue fazer melhores perguntas, ser mais assertivo nas ações e no desenvolvimento. Exatamente por isso, mantenha muita atenção no que é solicitado abaixo. Pense com cuidado, planeje e execute. Dessa vez, vocês estão alterando um código pronto e aplicando sua visão. Mantenha na cabeça que qualquer alteração não vai quebrar o mundo... Então experimente tudo o que quiser experimentar. Brinque bastante e altere tudo o que quiser alterar. Com o projeto de desenvolvimento de caixa eletrônico, por exemplo, encontramos algumas questões que são muito importantes, mas não foram aplicadas. Vamos aplicá-las uma a uma. Lembre-se de encontrar um ambiente onde possa se concentrar, entender e anotar tudo o que precisa ser feito e, depois de um tempo, pode ser bem interessante reunir-se com quem pode agregar a esse projeto.
 
 # Instruções do projeto
 
 ## Agora é hora de pensar!
-## Com o projeto do caixa eletrônico, encontramos algumas questões que são muito importantes, mas não foram aplicadas. Vamos aplicá-las uma a uma. 
+Com o projeto do caixa eletrônico, encontramos algumas questões que são muito importantes, mas não foram aplicadas. Vamos aplicá-las uma a uma. 
 - Ao acessar o sistema, pergunte o nome do usuário e diga "Olá {Nome} é um prazer ter você por aqui!".
 - Na função "inicio", utilize escolha/caso (switch/case) para validar a opção escolhida pelo do usuário. 
 - Sempre que o usuário for sacar dinheiro, o valor restante não pode ser negativo, ou seja, caso o usuário tente sacar mais do que tem em saldo, a ação não deve ocorrer. Exiba uma mensagem de "Operação não autorizada". 
